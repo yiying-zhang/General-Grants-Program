@@ -43,7 +43,7 @@ We are interested in building the tool due to three reasons. First, our previous
 
 ### Project Details 
 
-We have built a prototype of the proposed tool. We published a demonstration paper at this year’s CCS to describe the prototype. The paper can be found here: https://songlh.github.io/paper/vr.pdf. We also recorded a video to explain the prototype, and the video can be found here: https://youtu.be/L5F_XCOrJTQ.
+We have built a prototype of the proposed tool. We published a demonstration paper at this year’s CCS to describe the prototype. The paper can be found [ere]ttps://songlh.github.io/paper/vr.pdf) We also recorded a video to explain the prototype, and the video can be found [here](ttps://youtu.be/L5F_XCOrJTQ)
 
 We applied the bug detection component of the prototype to Substrate, Polkadot, and ink!. We found four previously unknown deadlocks. One is in Substrate. The other three are in the dependent libraries of Substrate or Polkadot. We reported all the detected bugs. All of them were fixed by developers based on our reporting. The information of the detected bugs is listed as follows:
 
@@ -84,13 +84,13 @@ Team member Yiying Zhang has conducted various systems research with papers publ
 
 
 ### Team Code Repos
-* LDoctor (ICSE ‘17): https://github.com/songlh/LDoctor 
-* Rust-Study (PLDI ‘20): https://github.com/system-pclub/rust-study
-* LegoOS (OSDI ‘18): https://github.com/WukLab/LegoOS
+* [Doctor (ICSE ‘17)](htttps://github.com/songlh/LDoctor)
+* [Rust-Study (PLDI ‘20)](https://github.com/system-pclub/rust-study)
+* [LegoOS (OSDI ‘18)](https://github.com/WukLab/LegoOS)
 
 ### Team LinkedIn Profiles
-* Linhai Song: https://www.linkedin.com/in/linhai-song-7a3b12120/
-* Yiying Zhang: https://www.linkedin.com/in/yiyingzhang/
+* [Linhai Song](https://www.linkedin.com/in/linhai-song-7a3b12120/)
+* ]Yiying Zhang](https://www.linkedin.com/in/yiyingzhang/)
 
 
 ## Development Roadmap :nut_and_bolt: 
@@ -162,7 +162,7 @@ Second, we will conduct a survey to understand what challenges are faced by prog
 
 * What work has been done so far?
 
-We have built a prototype of the proposed tool. We wrote one paper (https://songlh.github.io/paper/vr.pdf) and recorded one video (https://youtu.be/L5F_XCOrJTQ) to describe the prototype. 
+We have built a prototype of the proposed tool. We wrote [one paper](https://songlh.github.io/paper/vr.pdf) and recorded [one video](https://youtu.be/L5F_XCOrJTQ) to describe the prototype. 
 
 We applied the bug detection component of the prototype to Substrate, Polkadot, and ink!. We found four previously unknown deadlocks. We reported all the detected bugs and all of them were fixed based on our reporting [1, 2, 3]. 
 
